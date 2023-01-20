@@ -1,4 +1,4 @@
 # PROJECT1
 first project
-##notes
+## notes
  this project to show my skills in c++
